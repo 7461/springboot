@@ -1,0 +1,10 @@
+<metadata>
+  <groupId>org.ow2.asm</groupId>
+  <artifactId>asm-util</artifactId>
+  <versioning>
+    <versions>
+      <version>7.0-beta</version>
+    </versions>
+    <lastUpdated>20211018033058</lastUpdated>
+  </versioning>
+</metadata>

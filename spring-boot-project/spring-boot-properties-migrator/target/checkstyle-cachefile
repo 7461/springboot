@@ -1,0 +1,15 @@
+#Tue Oct 19 16:58:08 CST 2021
+configuration*?=74663F02CD0292618256C4789ACF46E3EE06508D
+E\:\\code\\study\\sourcecode\\springboot\\spring-boot-2.1.3.RELEASE\\spring-boot-project\\spring-boot-properties-migrator\\src\\test\\resources\\config\\config-error.properties=1550225083000
+E\:\\code\\study\\sourcecode\\springboot\\spring-boot-2.1.3.RELEASE\\spring-boot-project\\spring-boot-properties-migrator\\src\\test\\resources\\config\\config-error-invalid-replacement.properties=1550225083000
+E\:\\code\\study\\sourcecode\\springboot\\spring-boot-2.1.3.RELEASE\\spring-boot-project\\spring-boot-properties-migrator\\src\\main\\java\\org\\springframework\\boot\\context\\properties\\migrator\\package-info.java=1550225083000
+E\:\\code\\study\\sourcecode\\springboot\\spring-boot-2.1.3.RELEASE\\spring-boot-project\\spring-boot-properties-migrator\\src\\test\\resources\\config\\config-error-no-replacement.properties=1550225083000
+E\:\\code\\study\\sourcecode\\springboot\\spring-boot-2.1.3.RELEASE\\spring-boot-project\\spring-boot-properties-migrator\\src\\main\\java\\org\\springframework\\boot\\context\\properties\\migrator\\PropertiesMigrationReport.java=1550225083000
+E\:\\code\\study\\sourcecode\\springboot\\spring-boot-2.1.3.RELEASE\\spring-boot-project\\spring-boot-properties-migrator\\src\\main\\java\\org\\springframework\\boot\\context\\properties\\migrator\\PropertyMigration.java=1550225083000
+E\:\\code\\study\\sourcecode\\springboot\\spring-boot-2.1.3.RELEASE\\spring-boot-project\\spring-boot-properties-migrator\\src\\main\\java\\org\\springframework\\boot\\context\\properties\\migrator\\PropertiesMigrationListener.java=1550225083000
+E\:\\code\\study\\sourcecode\\springboot\\spring-boot-2.1.3.RELEASE\\spring-boot-project\\spring-boot-properties-migrator\\src\\test\\resources\\config\\config-error-no-compatible-type.properties=1550225083000
+E\:\\code\\study\\sourcecode\\springboot\\spring-boot-2.1.3.RELEASE\\spring-boot-project\\spring-boot-properties-migrator\\src\\test\\java\\org\\springframework\\boot\\context\\properties\\migrator\\PropertiesMigrationListenerTests.java=1550225083000
+E\:\\code\\study\\sourcecode\\springboot\\spring-boot-2.1.3.RELEASE\\spring-boot-project\\spring-boot-properties-migrator\\src\\main\\java\\org\\springframework\\boot\\context\\properties\\migrator\\PropertiesMigrationReporter.java=1550225083000
+E\:\\code\\study\\sourcecode\\springboot\\spring-boot-2.1.3.RELEASE\\spring-boot-project\\spring-boot-properties-migrator\\src\\test\\java\\org\\springframework\\boot\\context\\properties\\migrator\\PropertiesMigrationReporterTests.java=1550225083000
+module-resource*?\:file\:/E\:/code/study/sourcecode/springboot/spring-boot-2.1.3.RELEASE/spring-boot-project/spring-boot-properties-migrator/../../src/checkstyle/import-control.xml=2CF0794D3571FB5A41E6BB2E308BBE7AB34F6FF0
+E\:\\code\\study\\sourcecode\\springboot\\spring-boot-2.1.3.RELEASE\\spring-boot-project\\spring-boot-properties-migrator\\src\\test\\resources\\config\\config-warnings.properties=1550225083000

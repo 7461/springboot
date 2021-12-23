@@ -1,0 +1,10 @@
+<metadata>
+  <groupId>org.ow2.asm</groupId>
+  <artifactId>asm-commons</artifactId>
+  <versioning>
+    <versions>
+      <version>7.0</version>
+    </versions>
+    <lastUpdated>20211018033058</lastUpdated>
+  </versioning>
+</metadata>

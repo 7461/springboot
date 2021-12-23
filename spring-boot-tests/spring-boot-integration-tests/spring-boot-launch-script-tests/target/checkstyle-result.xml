@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.12">
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-tests\spring-boot-integration-tests\spring-boot-launch-script-tests\src\main\java\org\springframework\boot\launchscript\LaunchScriptTestApplication.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-tests\spring-boot-integration-tests\spring-boot-launch-script-tests\src\main\java\org\springframework\boot\launchscript\LaunchVerificationController.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-tests\spring-boot-integration-tests\spring-boot-launch-script-tests\src\test\java\org\springframework\boot\launchscript\SysVinitLaunchScriptIT.java">
+</file>
+</checkstyle>

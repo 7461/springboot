@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "foo",
+      "type": "org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfigurationTests$SampleBean",
+      "sourceType": "org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfigurationTests$SampleBean"
+    },
+    {
+      "name": "spring.datasource.tomcat",
+      "type": "javax.sql.DataSource",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.TomcatDataSourceConfigurationTests$TomcatDataSourceConfiguration",
+      "sourceMethod": "dataSource()"
+    }
+  ],
+  "properties": [
+    {
+      "name": "foo.name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfigurationTests$SampleBean",
+      "defaultValue": "default"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.12">
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\ConfigurationMetadataGroup.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\ConfigurationMetadataHint.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\ConfigurationMetadataItem.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\ConfigurationMetadataProperty.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\ConfigurationMetadataRepository.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\ConfigurationMetadataRepositoryJsonBuilder.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\ConfigurationMetadataSource.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\Deprecation.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\Hints.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\JsonReader.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\package-info.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\RawConfigurationMetadata.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\SentenceExtractor.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\SimpleConfigurationMetadataRepository.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\ValueHint.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\main\java\org\springframework\boot\configurationmetadata\ValueProvider.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\test\java\org\springframework\boot\configurationmetadata\AbstractConfigurationMetadataTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\test\java\org\springframework\boot\configurationmetadata\ConfigurationMetadataRepositoryJsonBuilderTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\test\java\org\springframework\boot\configurationmetadata\JsonReaderTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-configuration-metadata\src\test\java\org\springframework\boot\configurationmetadata\SentenceExtractorTests.java">
+</file>
+</checkstyle>

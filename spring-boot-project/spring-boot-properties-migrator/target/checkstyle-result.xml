@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.12">
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-properties-migrator\src\main\java\org\springframework\boot\context\properties\migrator\package-info.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-properties-migrator\src\main\java\org\springframework\boot\context\properties\migrator\PropertiesMigrationListener.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-properties-migrator\src\main\java\org\springframework\boot\context\properties\migrator\PropertiesMigrationReport.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-properties-migrator\src\main\java\org\springframework\boot\context\properties\migrator\PropertiesMigrationReporter.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-properties-migrator\src\main\java\org\springframework\boot\context\properties\migrator\PropertyMigration.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-properties-migrator\src\test\java\org\springframework\boot\context\properties\migrator\PropertiesMigrationListenerTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-properties-migrator\src\test\java\org\springframework\boot\context\properties\migrator\PropertiesMigrationReporterTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-properties-migrator\src\test\resources\config\config-error-invalid-replacement.properties">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-properties-migrator\src\test\resources\config\config-error-no-compatible-type.properties">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-properties-migrator\src\test\resources\config\config-error-no-replacement.properties">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-properties-migrator\src\test\resources\config\config-error.properties">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-properties-migrator\src\test\resources\config\config-warnings.properties">
+</file>
+</checkstyle>

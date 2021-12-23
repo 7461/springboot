@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.12">
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\dsl\package-info.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\dsl\SpringBootExtension.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\plugin\ApplicationPluginAction.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\plugin\DependencyManagementPluginAction.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\plugin\JavaPluginAction.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\plugin\KotlinPluginAction.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\plugin\MainClassConvention.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\plugin\MavenPluginAction.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\plugin\package-info.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\plugin\PluginApplicationAction.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\plugin\SinglePublishedArtifact.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\plugin\SpringBootPlugin.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\plugin\UnresolvedDependenciesAnalyzer.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\plugin\WarPluginAction.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\application\CreateBootStartScripts.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\application\package-info.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\buildinfo\BuildInfo.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\buildinfo\BuildInfoProperties.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\buildinfo\package-info.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\bundling\BootArchive.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\bundling\BootArchiveSupport.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\bundling\BootJar.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\bundling\BootWar.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\bundling\BootZipCopyAction.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\bundling\LaunchScriptConfiguration.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\bundling\package-info.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\bundling\ZipCompression.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\run\BootRun.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\java\org\springframework\boot\gradle\tasks\run\package-info.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\com\example\BootRunApplication.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\docs\GettingStartedDocumentationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\docs\IntegratingWithActuatorDocumentationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\docs\ManagingDependenciesDocumentationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\docs\PackagingDocumentationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\docs\PublishingDocumentationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\docs\RunningDocumentationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\dsl\BuildInfoDslIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\junit\GradleCompatibilitySuite.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\junit\GradleMultiDslSuite.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\plugin\ApplicationPluginActionIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\plugin\DependencyManagementPluginActionIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\plugin\JavaPluginActionIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\plugin\KotlinPluginActionIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\plugin\MainClassConventionTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\plugin\MavenPluginActionIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\plugin\OnlyDependencyManagementIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\plugin\SpringBootPluginIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\plugin\WarPluginActionIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\tasks\buildinfo\BuildInfoIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\tasks\buildinfo\BuildInfoTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\tasks\bundling\AbstractBootArchiveIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\tasks\bundling\AbstractBootArchiveTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\tasks\bundling\BootJarIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\tasks\bundling\BootJarTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\tasks\bundling\BootWarIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\tasks\bundling\BootWarTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\tasks\bundling\LaunchScriptConfigurationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\tasks\bundling\MavenIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\tasks\bundling\MavenPublishingIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\tasks\bundling\PomCondition.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\tasks\run\BootRunIntegrationTests.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\testkit\Dsl.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\test\java\org\springframework\boot\gradle\testkit\GradleBuild.java">
+</file>
+<file name="E:\code\study\sourcecode\springboot\spring-boot-2.1.3.RELEASE\spring-boot-project\spring-boot-tools\spring-boot-gradle-plugin\src\main\resources\META-INF\gradle-plugins\org.springframework.boot.properties">
+</file>
+</checkstyle>
